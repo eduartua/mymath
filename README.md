@@ -1,0 +1,2 @@
+# mymath
+Probando godoc
